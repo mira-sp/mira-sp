@@ -31,11 +31,6 @@ And [Langfuse Cloud Platform](https://github.com/langfuse/langfuse) for an open 
   Street-level imagery from Mapillary with a bitmap fallback. Built to run on free-tier
   infrastructure end to end with Google SDK. 
 
-- **[brands-intelligence-platform](https://github.com/mira-sp/brands-intelligence-platform)**
-  — Work in progress Brand-mention monitoring: FastAPI + async SQLAlchemy backend, multilingual BERT sentiment
-  scoring, keyword-based crisis detection, Next.js dashboard. 13 endpoints, batch and
-  single-item ML paths, Pydantic schemas at every boundary.
-
 - **[Gender-Korpus](https://github.com/mira-sp/Gender-Korpus)** — Short Analysis of a 684k tokens of German text
   (18th–20th c.), 29k gender-labelled, spaCy POS tagging over the labelled subset. For university purposes.
   Mann 61% / Frau 35% / genderneutral 4%.
