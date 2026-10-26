@@ -35,9 +35,8 @@ And [Langfuse Cloud Platform](https://github.com/langfuse/langfuse) for an open 
   (18th–20th c.), 29k gender-labelled, spaCy POS tagging over the labelled subset. For university purposes.
   Mann 61% / Frau 35% / genderneutral 4%.
 
-- **[Plant-Identifier-Webapp](https://github.com/mira-sp/Plant-Identifier-Webapp)** — Next.js 15
-  and Gemini vision: photo in, structured plant profile out. Camera capture via `getUserMedia`,
-  Leaflet for origin regions. Currently not live.
+- **[Plant-Identifier-Webapp](https://github.com/mira-sp/Plant-Identifier-Webapp)** —  photo in, structured plant profile out. Camera capture via `getUserMedia`,
+  Leaflet for origin regions. Currently in work
 
 
 
