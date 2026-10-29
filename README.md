@@ -8,10 +8,6 @@ dataset design, LLM-as-judge rubrics, judge calibration, and the model compariso
 provider decisions. Built on Langfuse. Four eval datasets so far, including a τ²-bench
 adaptation and the paired significance testing behind provider and prompt change decisions.
 
-Most of the interesting work is figuring out when a metric is lying — a judge rule over-firing,
-a scorer failing silently, an instrumentation column that reads zero because nothing writes to
-it. A number nobody checked is worse than no number.
-
 Also into immutable Linux desktops — daily-driving
 [bazzite-dx](https://github.com/ublue-os/bazzite-dx) for container-native dev.
 
